@@ -1,5 +1,18 @@
 /* 
-👉 Write your kata here!
-*/
+👉 Write your kata here!*/
 
-//👉 Write the function your CodeWarriors will start with below here:
+
+// Count the number of solders present in the array. True is equivalent to present. 
+
+
+ const barracks = [true, false, true, false, true];
+
+function count(xxx){return soldiers.xxx(xxx.xxx}
+
+export default count(barracks)
+
+
+
+
+
+
